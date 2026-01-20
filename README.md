@@ -2,6 +2,9 @@
 
 本项目基于 Steam 游戏数据集进行基础统计与可视化分析，输出了可直接查看的分析报告与 Notebook。
 
+📄 **项目分析报告（PDF）**  
+[点击查看 / 下载](report.pdf)
+
 ## 项目内容
 
 - `Steam platform game data analysis.ipynb`：分析 Notebook
